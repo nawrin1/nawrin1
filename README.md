@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F105775659%2Fcreative-coding-explorations&psig=AOvVaw1CnkXfih1DmxEfte8maNlO&ust=1702162398721000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD2oKj3gIMDFQAAAAAdAAAAABAD"  />
+  <img height="150" src="https://github.com/nawrin1/nawrin1/assets/138470264/32a72921-32fe-4a6b-9268-30c7131bd297
+
+"  />
 </div>
 
 ###
