@@ -3,10 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif
-
-
-"  />
+  <img height="150" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"  />
 </div>
 
 ###
