@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="![image](https://github.com/nawrin1/nawrin1/assets/138470264/95f29e16-9797-4a3e-9b81-5ace91f7c345)
+  <img height="150" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif
 
 
 "  />
