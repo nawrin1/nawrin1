@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/nawrin1/nawrin1/assets/138470264/32a72921-32fe-4a6b-9268-30c7131bd297
+  <img height="150" src="![image](https://github.com/nawrin1/nawrin1/assets/138470264/95f29e16-9797-4a3e-9b81-5ace91f7c345)
+
 
 "  />
 </div>
