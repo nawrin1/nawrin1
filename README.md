@@ -1,3 +1,7 @@
+<h3 align="center">hey there 👋 Im Jannatul Ferdous Nawrin currently an undergrad studying Computer Science And Engineering at Brac University</h3>
+
+###
+
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -22,9 +26,6 @@
 
 ###
 
-<h3 align="center">hey there 👋 Im Jannatul Ferdous Nawrin currently an undergrad studying Computer Science And Engineering at Brac University</h3>
-
-###
 
 <h5 align="left">👩‍💻  Aspiring MERN Stack Developer in the early stages of my learning journey, with a focus on frontend development. Passionate about web development, I am actively exploring JavaScript, React, Node, and MongoDB. Committed to acquiring proficiency and hands-on experience, I am enthusiastic about contributing to projects and expanding my skill set in the ever-evolving realm of web development.</h5>
 
