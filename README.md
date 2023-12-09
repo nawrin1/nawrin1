@@ -44,7 +44,7 @@
 
 <h3 align="left">🔥   Overview :</h3>
 
-<p align="left"><br>- 🔭 <h2>I’m an undergrad student</h2>><br>- 📚 <h2>I'm currently learning MERN for backend and HTML CSS for frontend</h2><br>- ⚡ <h2>In my free time I explore new things</h2></p>
+<p align="left"><br><h4>- 🔭 I’m an undergrad student</h4><br>- 📚 <h4>I'm currently learning MERN for backend and HTML CSS for frontend</h4><br>- ⚡ <h4>In my free time I explore new things</h4></p>
 
 
 ###
