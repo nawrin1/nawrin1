@@ -42,6 +42,13 @@
 
 ###
 
+<h3 align="left">🔥   Overview :</h3>
+
+<p align="left"><br>- 🔭 <h2>I’m an undergrad student</h2>><br>- 📚 <h2>I'm currently learning MERN for backend and HTML CSS for frontend</h2><br>- ⚡ <h2>In my free time I explore new things</h2></p>
+
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
