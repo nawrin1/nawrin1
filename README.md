@@ -1,5 +1,5 @@
 <h3 align="center">hey there 👋 Im Jannatul Ferdous Nawrin currently an undergrad studying Computer Science And Engineering at Brac University</h3>
-<img src="https://ibb.co/0tW5N73">
+<img src="https://i.ibb.co/dQWS3dY/Web-Developer.png">
 
 ###
 
