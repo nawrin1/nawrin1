@@ -37,9 +37,10 @@
 <h5 align="left">👩‍💻  Aspiring MERN Stack Developer in the early stages of my learning journey, with a focus on frontend development. Passionate about web development, I am actively exploring JavaScript, React, Node, and MongoDB. Committed to acquiring proficiency and hands-on experience, I am enthusiastic about contributing to projects and expanding my skill set in the ever-evolving realm of web development.</h5>
 
 ###
-
+<div align="left">
 <h3 align="left">🔥   Overview :</h3>
 <p align="left"><br><h4>- 🔭 I’m an undergrad student</h4> <h4>- 📚I'm currently learning MERN for backend and HTML CSS for frontend</h4> <h4>- ⚡In my free time I explore new things</h4></p>
+</div>
 
 
 ###
