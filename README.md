@@ -8,7 +8,7 @@
 
 
 <h2>👩About Me</h2>
-<h4 align="left">👩‍💻 Im Jannatul Ferdous Nawrin currently an undergraduate studying Computer Science And Engineering at Brac University who is an aspiring MERN Stack Developer in the early stages of my learning journey, with a focus on frontend development. Passionate about web development, I am actively exploring JavaScript, React, Node, and MongoDB. Committed to acquiring proficiency and hands-on experience, I am enthusiastic about contributing to projects and expanding my skill set in the ever-evolving realm of web development.</h5>
+<h4 align="left">👩‍💻 Im Jannatul Ferdous Nawrin currently an undergraduate studying Computer Science And Engineering at Brac University who is an aspiring MERN Stack Developer in the early stages of learning journey, with a focus on web development. Passionate about web development, I am actively exploring JavaScript, React, Node, and MongoDB. Committed to acquiring proficiency and hands-on experience, I am enthusiastic about contributing to projects and expanding my skill set in the ever-evolving realm of web development.</h5>
 
 ###
 
