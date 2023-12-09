@@ -3,11 +3,17 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"  />
-</div>
+
+
+
+
+<h2>👩About Me</h2>
+<h4 align="left">👩‍💻  Aspiring MERN Stack Developer in the early stages of my learning journey, with a focus on frontend development. Passionate about web development, I am actively exploring JavaScript, React, Node, and MongoDB. Committed to acquiring proficiency and hands-on experience, I am enthusiastic about contributing to projects and expanding my skill set in the ever-evolving realm of web development.</h5>
 
 ###
+
+
+
 
 <h2>📨Find me on:</h2>
 
@@ -34,12 +40,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nawrin1.nawrin1&left_color=aquamarine"  />
 </div>
 
-###
 
-<h2>👩About Me</h2>
-<h4 align="left">👩‍💻  Aspiring MERN Stack Developer in the early stages of my learning journey, with a focus on frontend development. Passionate about web development, I am actively exploring JavaScript, React, Node, and MongoDB. Committed to acquiring proficiency and hands-on experience, I am enthusiastic about contributing to projects and expanding my skill set in the ever-evolving realm of web development.</h5>
-
-###
 
 
 
