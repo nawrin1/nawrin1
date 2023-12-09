@@ -46,7 +46,7 @@
 
 ###
 
-<h2> 🔥  Overview :</h2><p align="left"><br><h4>- 🔭 I’m an undergrad student</h4> <h4>- 📚I'm currently learning MERN Stack</h4> <h4>- ⚡In my free time I explore new tools </h4></p>
+<h2> 🔥  Overview :</h2><p align="left"><br><h4>- 🔭 I’m an undergrad student</h4> <h4>- 📚I'm currently learning MERN Stack with a view to explore web development</h4> <h4>- ⚡In my free time I explore new tools </h4></p>
 
 
 
