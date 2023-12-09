@@ -34,15 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nawrin1.nawrin1&left_color=aquamarine"  />
-</div>
-
-
-
-
 
 ###
 
@@ -83,6 +74,14 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nawrin1&theme=great_gatsby"  />
+</div>
+
+###
+<h2>👀Visitors:</h2>
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nawrin1.nawrin1&left_color=aquamarine"  />
 </div>
 
 
