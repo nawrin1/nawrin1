@@ -37,7 +37,7 @@
 
 ###
 
-<h2> 🔥  Overview :</h2><p align="left"><br><h4>- 🔭 I’m an undergrad student</h4> <h4>- 📚I'm currently learning MERN Stack with a view to explore web development</h4> <h4>- ⚡In my free time I explore new tools </h4></p>
+<h2> 🔥  Overview :</h2><p align="left"><br><h4>- 🔭 I’m an undergraduate student </h4> <h4>- 📚I'm currently exploring and learning MERN Stack with a view to explore web development</h4> <h4>- ⚡In my free time I explore and learn new things whether it is tools, packages or any educational topics</h4></p>
 
 
 
@@ -84,6 +84,20 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nawrin1.nawrin1&left_color=aquamarine"  />
 </div>
 
+
+###
+Technologies I have explored :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind,js,react,mongodb,nodejs,express,firebase,python,materialui,vercel,netlify" />
+  </a>
+</p>
+<div align="center">
+   <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
+   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white" />
+   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</div>
 
 ###
 
