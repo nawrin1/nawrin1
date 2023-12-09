@@ -38,14 +38,17 @@
 
 ###
 
-<h2> 🔥  Overview :</h2><p align="left"><br><h4>- 🔭 I’m an undergrad student</h4> <h4>- 📚I'm currently learning MERN for backend and HTML CSS for frontend</h4> <h4>- ⚡In my free time I explore new things</h4></p>
+<h2> 🔥  Overview :</h2><p align="left"><br><h4>- 🔭 I’m an undergrad student</h4> <h4>- 📚I'm currently learning MERN Stack</h4> <h4>- ⚡In my free time I explore new tools </h4></p>
+
+
+
+###
+
 
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h2>🛠 Language and tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
