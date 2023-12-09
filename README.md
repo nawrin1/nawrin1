@@ -63,6 +63,9 @@
     <img src="https://skillicons.dev/icons?i=css,html,tailwind,js,react,mongodb,nodejs,express,firebase,python" />
   </a>
 </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
+</div>
 
 ###
 
