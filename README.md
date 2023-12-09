@@ -72,7 +72,7 @@
 
 ###
 
-
+<h2>📈Contributions:</h2>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nawrin1&theme=great_gatsby"  />
