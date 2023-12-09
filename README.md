@@ -1,4 +1,4 @@
-<h3 align="center">Hey there 👋 </h3>
+
 <img src="https://i.ibb.co/dQWS3dY/Web-Developer.png">
 
 ###
