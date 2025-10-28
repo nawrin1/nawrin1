@@ -1,7 +1,6 @@
 
-<!--<img src="https://i.ibb.co/dQWS3dY/Web-Developer.png">-->
+<img src="https://i.ibb.co/dQWS3dY/Web-Developer.png">
 
-![Coding GIF](https://i.ibb.co.com/d4KZ2ZhL/Add-a-heading.gif)
 
 
 ###
