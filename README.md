@@ -4,7 +4,7 @@
 <!--<img src ="https://i.ibb.co.com/WWgJyd9p/Add-a-heading-1.png">-->
 <!--<img src="https://i.ibb.co.com/FkjzCnBk/Add-a-heading-2.png">-->
 
-![me](https://github.com/nawrin1/nawrin1/blob/main/banner.gif)
+![me](https://github.com/nawrin1/nawrin1/blob/main/banner_1.gif)
 
 
 
